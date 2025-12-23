@@ -67,3 +67,9 @@ CodeAlpha_Car_Price_Prediction/
 │
 ├── requirements.txt
 └── README.md
+
+▶️ How to Run the Project
+
+1-Clone the repository:
+
+git clone https://github.com/your-username/CodeAlpha_Car_Price_Prediction.git
